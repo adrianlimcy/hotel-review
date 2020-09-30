@@ -10,3 +10,8 @@
 8.  create the test scenarios in the SubHeader.test.js file
 9.  npm run test --coverage
 10. touch src/components/Button/Button.test.js
+
+# Using Enzyme
+- Good to test for events like onClick
+1.  npm install enzyme enzyme-adapter-react-16 --save-dev
+2.  touch src/setupTests.js
