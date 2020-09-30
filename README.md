@@ -15,3 +15,6 @@
 - Good to test for events like onClick
 1.  npm install enzyme enzyme-adapter-react-16 --save-dev
 2.  touch src/setupTests.js
+
+# Integration
+1.  touch src/components/Hotels/Hotels.test.js
